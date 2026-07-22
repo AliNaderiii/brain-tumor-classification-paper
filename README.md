@@ -23,7 +23,7 @@ This paper presents a deep learning framework combining Convolutional Neural Net
 ## 🔗 Useful Links
 
 - 📄 [Read the article on Wiley](https://onlinelibrary.wiley.com/doi/10.1155/cplx/1644859)  
-- 🌐 [View HTML project page](https://AliNaderiii.github.io/brain-tumor-classification/) *(once GitHub Pages is enabled)*  
+- 🌐 [[View HTML project page](https://AliNaderiii.github.io/brain-tumor-classification/) *(once GitHub Pages is enabled)*  ](https://github.com/AliNaderiii/brain-tumor-classification-paper/blob/main/Deep%20Learning%20%26%20Medical%20Imaging.html)
 - 📥 [Download PDF of the article](./Complexity_2025_Naderi_Convolutional_Neural_Network_and_Channel.pdf)
 
 ---
