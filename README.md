@@ -20,6 +20,7 @@ This paper presents a deep learning framework combining Convolutional Neural Net
 | Brats-4C | Four-class (glioma, meningioma, pituitary, no tumour) | **98.16%** |
 | Brats-2C large | Binary | **99.4%** |
 | Brats-2C small | Binary | **99.2%** |
+
 Validated with 5-fold stratified cross-validation.
 ### Comparison with prior work
 | Method | Architecture | Accuracy |
