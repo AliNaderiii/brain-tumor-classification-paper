@@ -1,5 +1,5 @@
 # Brain Tumor Classification Using CNN and Channel Attention
-# https://alinaderiii.github.io/brain-tumor-classification-paper
+
 Official materials and project page for our peer-reviewed article on multiclass brain tumor classification from MRI.
 [![DOI](https://img.shields.io/badge/DOI-10.1155%2Fcplx%2F1644859-006699?style=for-the-badge)](https://doi.org/10.1155/cplx/1644859)
 [![Open Access](https://img.shields.io/badge/Open_Access-Complexity_(Wiley)-6C4AB6?style=for-the-badge)](https://onlinelibrary.wiley.com/doi/10.1155/cplx/1644859)
